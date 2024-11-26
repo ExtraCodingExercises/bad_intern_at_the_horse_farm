@@ -1,10 +1,10 @@
-#FEWD: Troubleshooting Exercise
+# FEWD: Troubleshooting Exercise
 
 
 ---
 
 
-###Exercise Problem 
+### Exercise Problem 
 
 Your client has had an intern work on a landing page and something has gone horribly wrong.  They are now in a panic 
 and have asked you to try to repair the damaged page.  They have identified the followng problems:
